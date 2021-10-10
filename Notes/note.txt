@@ -1,0 +1,27 @@
+WHAT IS 2.MP3?
+2mp3 is a python project started in july 29 to convert any media files to mp3 as a result of 17 year old me buying a STN-13 headphone and wanting to copy all musical videos into a memory card converting it to mp3.
+
+THE PROJECT IDEA
+the script will be a command line interface.
+It will have two options one to directly download from youtube and convert it to mp3 or
+Converting a selected file(s) to mp3
+
+The script will have two phrases 
+1 - converting it to mp3
+2 - transferring the converted mp3 to the memory.
+
+EXECUTION
+I will be using four modules here 
+1 - youtube.dl  // To download mp3 from YouTube 
+2 - Python shutil - To transfer files
+3 - Os [os.listdir()]- For directory and file mangement 
+4 - moviepy - to convert video media files to mp3
+
+
+TAKE A LOOK AT THE "DESGIN.PNG" TO UNDERSTAND THE PROCESS
+
+===WRITTEN AFTER PROJECT IS SUCESSFULLY DONE ===
+- It turned out that i needed around 10 modules
+    July 30, 13:22
+=== // WRITTEN AFTER PROJECT IS SUCESSFULLY DONE ===
+

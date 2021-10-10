@@ -1,0 +1,5 @@
+For know more about MasterMP3 or Project name 2mp3 read 'note.txt'
+
+We can use MasterMP3 both ways 
+    1 - Simply type MasterMP3 in the terminal or 
+    2 - Use the desktop launcher to launch it from desktop 
